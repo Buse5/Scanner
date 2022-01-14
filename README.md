@@ -3,4 +3,5 @@ I made the project using opencv library. The main goal is for the camera to find
 
 SONUÇ:
 
-![opencvProject](https://user-images.githubusercontent.com/57727223/149513447-1e6765c8-c73e-48ad-8cb5-77c8081c90f1.PNG)
+![Result](https://user-images.githubusercontent.com/57727223/149513670-5aca6e75-a01f-4033-b9c7-656e79cd13a4.PNG)
+
